@@ -6,7 +6,8 @@ public class PrimeraClase {
 		String nombre = "carlos";
 		System.out.println(nombre);
 		String apellido = "Diaz";
+		String apellido2 = "Peña";
 		System.out.println(apellido);
-
+		System.out.println(apellido2);
 	}
 }
